@@ -26,7 +26,6 @@
 ## 常见问题
 
 * [什么是微信小程序参数二维码](chang-jian-wen-ti/shi-yao-shi-wei-xin-xiao-cheng-xu-can-shu-er-wei-ma.md)
-* [微信小程序参数二维码的应用场景](chang-jian-wen-ti/wei-xin-xiao-cheng-xu-can-shu-er-wei-ma-de-ying-yong-chang-jing.md)
-* [如何生成微信小程序参数二维码](chang-jian-wen-ti/ru-he-sheng-cheng-wei-xin-xiao-cheng-xu-can-shu-er-wei-ma.md)
-* [芝麻统计使用说明](chang-jian-wen-ti/zhi-ma-tong-ji-shi-yong-shuo-ming.md)
+* [微信小程序参数二维码的八大应用场景](chang-jian-wen-ti/wei-xin-xiao-cheng-xu-can-shu-er-wei-ma-de-ying-yong-chang-jing.md)
+* [生成小程序参数二维码的操作步骤](chang-jian-wen-ti/zhi-ma-tong-ji-shi-yong-shuo-ming.md)
 
