@@ -3,15 +3,16 @@
 HotApp微信小程序接入只需要在小程序中加入一段代码 var hotapp = require\('utils/hotapp.js'\); 在接入之前需要做一些准备工作。
 
 * 1.注册HotApp小程
- 
+
   序统计账号
+
 * 
 * 2.下载js,接入统计
 * 
 * 3.增加request合法
- 
+
   域名
-* 
+
 * 4.接入完成
 
 一行代码接入统计：
@@ -19,7 +20,6 @@ HotApp微信小程序接入只需要在小程序中加入一段代码 var hotapp
 ```
 //app.js
 var hotapp = require('utils/hotapp.js');
-
 ```
 
 接入示例：
@@ -44,11 +44,7 @@ App({
   },
   globalData: 'I am global data'
 })
-
 ```
 
 [sdk 下载](http://wenda.hotapp.cn/article/1)
-
-  
-
 
