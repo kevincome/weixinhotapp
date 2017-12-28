@@ -9,7 +9,7 @@
 * [1、了解接入流程](kai-fa-zhe-jie-ru-wen-dang/liu-cheng.md)
 * [2、注册芝麻统计账号](kai-fa-zhe-jie-ru-wen-dang/23001-zhu-ce-zhi-ma-tong-ji-zhang-hao.md)
 * [3、接入统计SDK](kai-fa-zhe-jie-ru-wen-dang/33001-jie-ru-tong-ji-sdk.md)
-* [4、request设置](kai-fa-zhe-jie-ru-wen-dang/4requestshe-zhi.md)
+* [4、request域名设置](kai-fa-zhe-jie-ru-wen-dang/4requestshe-zhi.md)
 
 ## 名词解释
 
