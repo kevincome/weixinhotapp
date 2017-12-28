@@ -13,15 +13,15 @@
 
 ## 名词解释
 
-* 二维码统计
-* 用户分析
-* 分享统计
-* 事件统计
-* 精准统计
-* 渠道统计
-* 场景值
-* 微信登录
-* 留存分析
+* [二维码统计](ming-ci-jie-shi/er-wei-ma-tong-ji.md)
+* [用户分析](ming-ci-jie-shi/yong-hu-fen-xi.md)
+* [分享统计](ming-ci-jie-shi/fen-xiang-tong-ji.md)
+* [事件统计](ming-ci-jie-shi/shi-jian-tong-ji.md)
+* [精准统计](ming-ci-jie-shi/jing-zhun-tong-ji.md)
+* [渠道统计](ming-ci-jie-shi/qu-dao-tong-ji.md)
+* [场景值](ming-ci-jie-shi/chang-jing-zhi.md)
+* [微信登录](ming-ci-jie-shi/wei-xin-deng-lu.md)
+* [留存分析](ming-ci-jie-shi/liu-cun-fen-xi.md)
 
 ## 常见问题
 
