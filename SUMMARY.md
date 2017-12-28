@@ -30,12 +30,3 @@
 * [如何生成微信小程序参数二维码](chang-jian-wen-ti/ru-he-sheng-cheng-wei-xin-xiao-cheng-xu-can-shu-er-wei-ma.md)
 * [芝麻统计使用说明](chang-jian-wen-ti/zhi-ma-tong-ji-shi-yong-shuo-ming.md)
 
-## 资源下载
-
-* JS SDK 下载
-* DEMO下载
-
-## Methods
-
-* [Defining Methods](methods.md)
-
