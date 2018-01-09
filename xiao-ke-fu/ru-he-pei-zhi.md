@@ -4,17 +4,15 @@
 
 右侧为需要填入的信息具体填写如下：
 
+**URL服务器地址：** 请在您的小程序后台-配置信息-复制您的URL服务器地址填入
 
+**token 令牌： **xiaokefu
 
-URL服务器地址： 请在您的小程序后台-配置信息-复制您的URL服务器地址填入
+**消息加密密钥：**1fewvsYWvbg2W55BD5GcGd70iEG7w9RdT5seR3Tgmp5
 
- token 令牌： xiaokefu 
+**消息加密方式：** 选择兼容模式
 
-消息加密密钥：1fewvsYWvbg2W55BD5GcGd70iEG7w9RdT5seR3Tgmp5 
-
-消息加密方式： 选择兼容模式 
-
-数据格式：选择XML
+**数据格式：**选择XML
 
 
 
