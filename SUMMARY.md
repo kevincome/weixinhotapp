@@ -4,6 +4,10 @@
 
 * [介绍](README.md)
 
+## 小客服
+
+* [如何配置](xiao-ke-fu/ru-he-pei-zhi.md)
+
 ## 开发者接入文档
 
 * [1、了解接入流程](kai-fa-zhe-jie-ru-wen-dang/liu-cheng.md)
