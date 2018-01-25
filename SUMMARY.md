@@ -6,7 +6,7 @@
 
 ## 小客服
 
-* [如何配置](xiao-ke-fu/ru-he-pei-zhi.md)
+* [如何配置小客服](xiao-ke-fu/ru-he-pei-zhi.md)
 
 ## 开发者接入文档
 
