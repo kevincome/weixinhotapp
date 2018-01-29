@@ -8,6 +8,7 @@
 
 * [如何配置小客服](xiao-ke-fu/ru-he-pei-zhi.md)
 * [如何使用多客服](xiao-ke-fu/duo-ke-fu.md)
+* [客服API](xiao-ke-fu/ke-fu-api.md)
 
 ## 开发者接入文档
 
